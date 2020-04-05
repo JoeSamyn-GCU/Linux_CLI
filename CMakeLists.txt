@@ -3,4 +3,4 @@ project(CLI C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(CLI main.c)
+add_executable(CLI src/main.c)
