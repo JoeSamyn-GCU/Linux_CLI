@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/CLI.dir/main.c.o  -o CLI 
